@@ -1,6 +1,6 @@
 # 🎓 DePaul University Graduate Admissions Analytics
 
-This project analyses the graduate admissions pipeline for **DePaul University** using **Power BI**, transforming raw applicant data into an interactive dashboard that provides insights into recruitment performance, admissions outcomes, and counselor engagement. The project follows a complete analytics workflow including exploratory data analysis, data cleaning, feature engineering, dashboard development, and business recommendations.
+This project analyses the graduate admissions pipeline for **DePaul University** using **Microsoft Excel** and **Power BI**, transforming raw applicant data into an interactive dashboard that provides insights into recruitment performance, admissions outcomes, and counselor engagement. The project follows a complete analytics workflow including exploratory data analysis, data cleaning, feature engineering, dashboard development, and business recommendations.
 
 ---
 
