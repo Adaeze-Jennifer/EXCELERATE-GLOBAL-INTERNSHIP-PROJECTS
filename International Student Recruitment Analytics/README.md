@@ -290,7 +290,7 @@ Together, these account for more than **2,300** delayed applications.
 ## 📒 Project Files
 
 - **📊 Interactive Power BI Dashboard**  
-  *(Add your published Power BI Service link here)*
+  [*Open Power BI Service link*](https://app.powerbi.com/view?r=eyJrIjoiMGMwNzUwZTAtOGE1MS00ZTkyLWI1ZDItN2UwYWY3YjViODA3IiwidCI6IjgzMDQ2NGFmLTgwOWEtNDgxYS1iMjE1LTgyNTU5ZWRmYWI2MiJ9)
 
 - **💻 Power BI (.pbix) File**  
   *(Link to your Power BI file)*
