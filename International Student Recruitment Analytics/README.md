@@ -269,18 +269,33 @@ Together, these account for more than **2,300** delayed applications.
 ## 📂 Repository Structure
 
 ```text
-├── images
-│   ├── recruitment_overview.png
-│   ├── admissions_funnel.png
-│   ├── counselor_engagement.png
-│   └── dashboard_preview.png
+International-Student-Recruitment-Analytics/
 │
-├── project files
-│   ├── DePaul Admissions Dashboard.pbix
-│   ├── Cleaned Dataset.xlsx
+├── 01-Project-Documentation/
 │   ├── Week-1-Data-Exploration-and-EDA-Report.pdf
 │   ├── Week-2-Data-Cleaning-and-Quality-Report.pdf
 │   └── Week-3-Dashboard-Development-and-Insights-Report.pdf
+│
+├── 02-Datasets/
+│   ├── 01-Raw-Data.csv
+│   ├── 02-Cleaned-Data.xlsx
+│   └── 03-Data-Dictionary.pdf
+│
+├── 03-Excel/
+│   └── Analysis.xlsx
+│
+├── 04-Power-BI/
+│   ├── Dashboard.pbix
+│   └── Dashboard.pdf
+│
+├── 05-Final-Presentation/
+│   ├── Week-4-Final-Presentation.pdf
+│   └── Week-4-Final-Presentation.pptx
+│
+├── Images/
+│   ├── Recruitment-Overview.png
+│   ├── Admissions-FUnnels.png
+│   └── Counselor-Engagement.png
 │
 └── README.md
 ```
