@@ -294,7 +294,7 @@ International-Student-Recruitment-Analytics/
 │
 ├── Images/
 │   ├── Recruitment-Overview.png
-│   ├── Admissions-FUnnels.png
+│   ├── Admissions-Funnels.png
 │   └── Counselor-Engagement.png
 │
 └── README.md
