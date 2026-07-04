@@ -146,7 +146,7 @@ The dashboard provides a high-level summary of recruitment performance through K
 
 ### Dashboard Preview
 
-![Recruitment Overview](images/recruitment_overview.png)
+![Recruitment Overview](images/Recruitment-Overview.png)
 
 ---
 
@@ -169,7 +169,7 @@ The admissions dashboard visualises the applicant journey from application throu
 
 ### Dashboard Preview
 
-![Admissions Funnel](images/admissions_funnel.png)
+![Admissions Funnel](images/Admissions_Funnels.png)
 
 ---
 
@@ -187,7 +187,7 @@ This page evaluates counselor activity and its relationship with admissions succ
 
 ### Dashboard Preview
 
-![Counselor Engagement](images/counselor_engagement.png)
+![Counselor Engagement](images/Counselor_Engagement.png)
 
 ---
 
