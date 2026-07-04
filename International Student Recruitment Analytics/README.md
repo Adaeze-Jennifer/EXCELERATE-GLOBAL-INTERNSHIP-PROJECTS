@@ -296,7 +296,7 @@ Together, these account for more than **2,300** delayed applications.
   *(Link to your Power BI file)*
 
 - **📄 Week 1 – Exploratory Data Analysis Report**  
-  *(View PDF)*[https://github.com/Adaeze-Jennifer/EXCELERATE-GLOBAL-INTERNSHIP-PROJECTS/blob/main/International%20Student%20Recruitment%20Analytics/01-Project-Documentation/Week-1-Data-Exploration-and-EDA-Report.pdf]
+  [*View PDF*](https://github.com/Adaeze-Jennifer/EXCELERATE-GLOBAL-INTERNSHIP-PROJECTS/blob/main/International%20Student%20Recruitment%20Analytics/01-Project-Documentation/Week-1-Data-Exploration-and-EDA-Report.pdf)
 
 - **🧹 Week 2 – Data Cleaning & Quality Report**  
   *(Link to PDF)*
