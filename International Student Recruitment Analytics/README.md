@@ -1,4 +1,4 @@
-# 🎓 DePaul University Graduate Admissions Analytics Dashboard
+# 🎓 DePaul University Graduate Admissions Analytics
 
 This project analyses the graduate admissions pipeline for **DePaul University** using **Power BI**, transforming raw applicant data into an interactive dashboard that provides insights into recruitment performance, admissions outcomes, and counselor engagement. The project follows a complete analytics workflow including exploratory data analysis, data cleaning, feature engineering, dashboard development, and business recommendations.
 
@@ -320,7 +320,7 @@ International-Student-Recruitment-Analytics/
   [*View PDF*](https://github.com/Adaeze-Jennifer/EXCELERATE-GLOBAL-INTERNSHIP-PROJECTS/blob/main/International%20Student%20Recruitment%20Analytics/01-Project-Documentation/Week-3-Dashboard-Development-and-Insights-Report.pdf)
 
 - **⬆ Back to Top**  
-  [DePaul University Graduate Admissions Analytics Dashboard](#-depaul-university-graduate-admissions-analytics-dashboard)
+  [DePaul University Graduate Admissions Analytics Dashboard](#-depaul-university-graduate-admissions-analytics)
 
 ---
 
