@@ -293,7 +293,7 @@ Together, these account for more than **2,300** delayed applications.
   [*Open Power BI Service link*](https://app.powerbi.com/view?r=eyJrIjoiMGMwNzUwZTAtOGE1MS00ZTkyLWI1ZDItN2UwYWY3YjViODA3IiwidCI6IjgzMDQ2NGFmLTgwOWEtNDgxYS1iMjE1LTgyNTU5ZWRmYWI2MiJ9)
 
 - **💻 Power BI (.pbix) File**  
-  *(Link to your Power BI file)*
+  [*Open Power BI file*](https://github.com/Adaeze-Jennifer/EXCELERATE-GLOBAL-INTERNSHIP-PROJECTS/blob/main/International%20Student%20Recruitment%20Analytics/04-Power-BI/Dashboard.pbix)
 
 - **📄 Week 1 – Exploratory Data Analysis Report**  
   [*View PDF*](https://github.com/Adaeze-Jennifer/EXCELERATE-GLOBAL-INTERNSHIP-PROJECTS/blob/main/International%20Student%20Recruitment%20Analytics/01-Project-Documentation/Week-1-Data-Exploration-and-EDA-Report.pdf)
