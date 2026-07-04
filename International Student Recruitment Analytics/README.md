@@ -169,7 +169,7 @@ The admissions dashboard visualises the applicant journey from application throu
 
 ### Dashboard Preview
 
-![Admissions Funnel](Images/Admissions_Funnels.png)
+![Admissions Funnel](Images/Admissions-Funnels.png)
 
 ---
 
@@ -187,7 +187,7 @@ This page evaluates counselor activity and its relationship with admissions succ
 
 ### Dashboard Preview
 
-![Counselor Engagement](Images/Counselor_Engagement.png)
+![Counselor Engagement](Images/Counselor-Engagement.png)
 
 ---
 
